@@ -50,7 +50,6 @@ public class HighCardWinGame extends Game {
     @Override
     public void declareWinner() {
         // In this simple version of the game, the winner is declared in the play() method itself.
-        // You can add more logic here if needed for a more sophisticated version.
     }
 
     // Helper method to convert card rank to numeric value
